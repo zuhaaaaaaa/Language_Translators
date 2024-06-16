@@ -1,0 +1,10 @@
+streamlit
+transformers
+transformers[m2m100]
+nltk
+scipy
+sentence-transformers
+sentencepiece
+vaderSentiment
+torch
+
